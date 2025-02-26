@@ -1,5 +1,4 @@
-
-internal class Program
+﻿internal class Program
 {
     private static List<Nave> naves= new List<Nave>();
     private static Stack<Nave> pilaNaves= new Stack<Nave>();
